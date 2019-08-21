@@ -1,0 +1,2 @@
+python samplesite/manage.py runserver - start debugging server
+python samplesite/manage.py makemigrations bboard - create a migration from model
