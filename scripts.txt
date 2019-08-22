@@ -1,4 +1,6 @@
+manage.py startapp bboard - create an empty app
 python samplesite/manage.py runserver - start debugging server
 python samplesite/manage.py makemigrations bboard - create a migration from model
 manage.py sqlmigrate bboard 0001 - check the SQL code for migration with name 0001.py
 manage.py migrate - apply all the migrations for the project
+manage.py shell - запуск консоли django
